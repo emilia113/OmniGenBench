@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="OmniGenBench Logo" width="120">
+<img src="assets/omnigenbench.png" alt="OmniGenBench Logo" width="120">
 
 <h3>OmniGenBench: A Benchmark for Omnipotent Multimodal Generation across 50+ Tasks</h3>
 
