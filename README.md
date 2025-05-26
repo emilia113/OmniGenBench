@@ -55,9 +55,9 @@
   <img src="assets/class.png" width="92%">
 </div>
 With <b>50+ diverse sub-tasks</b>, OmniGenBench serves as a novel and comprehensive benchmark for evaluating the generality, adaptability, and reasoning capabilities of state-of-the-art generative models across both perception- and cognition-oriented generation tasks.
-<br>
+<br><br>
 OmniGenBench ensures task diversity and difficulty by building on MegaBench, a widely acknowledged multimodal benchmark. We reverse-engineer text queries from its tasks and apply human filtering for accuracy and challenge.
-<br>
+<br><br>
 To enable precise evaluation, we design dedicated evaluation protocols for both perception- and cognition-centric tasks. Each task is assigned a tailored evaluation criterion, and our protocol aligns closely with human judgment, ensuring both accuracy and consistency in performance assessment.
 
 
