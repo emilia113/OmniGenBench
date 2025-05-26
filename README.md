@@ -34,7 +34,7 @@
 - **[2025/05/27]** Our paper is released.
 - **[2025/05/26]** The benchmark and evaluation code will be released soon.
 
----
+
 
 ## ✅ TODO
 
@@ -43,7 +43,7 @@
 - [ ] Release leaderboard
 - [ ] Release example results
 
----
+
 
 ## 📖 Introduction
 
@@ -51,19 +51,18 @@
 <div align="center">
   <img src="assets/class.png" width="85%">
 </div>
-With 50+ diverse sub-tasks, **OmniGenBench** serves as a novel and comprehensive benchmark for evaluating the generality, adaptability, and reasoning capabilities of state-of-the-art generative models across both perception- and cognition-oriented generation tasks.
+With **50+ diverse sub-tasks**, OmniGenBench serves as a novel and comprehensive benchmark for evaluating the generality, adaptability, and reasoning capabilities of state-of-the-art generative models across both perception- and cognition-oriented generation tasks.
 
 OmniGenBench ensures task diversity and difficulty by building on MegaBench, a widely acknowledged multimodal benchmark. We reverse-engineer text queries from its tasks and apply human filtering for accuracy and challenge.
 
 To enable precise evaluation, we design dedicated evaluation protocols for both perception- and cognition-centric tasks. Each task is assigned a tailored evaluation criterion, and our protocol aligns closely with human judgment, ensuring both accuracy and consistency in performance assessment.
 
----
 
 ## 🛠️ Quick Start
 
 Evaluation data and toolkit will be available shortly.
 
----
+
 
 ## 🎨 Model Outputs Showcase
 <div align="center">
