@@ -26,12 +26,6 @@
 </a> 
 -->
 
-</div>
-<div align="center">
-  <img src="assets/class.png" width="100%">
-</div>
-
-
 ---
 
 ## 📢 News
@@ -51,6 +45,11 @@
 ---
 
 ## 📖 Introduction
+
+</div>
+<div align="center">
+  <img src="assets/class.png" width="85%">
+</div>
 With 50+ diverse sub-tasks, **OmniGenBench** serves as a novel and comprehensive benchmark for evaluating the generality, adaptability, and reasoning capabilities of state-of-the-art generative models across both perception- and cognition-oriented generation tasks.
 
 OmniGenBench ensures task diversity and difficulty by building on MegaBench, a widely acknowledged multimodal benchmark. We reverse-engineer text queries from its tasks and apply human filtering for accuracy and challenge.
