@@ -15,14 +15,9 @@
 <a href="https://jingjing1.github.io/">Jingjing Chen</a><sup>1,2†</sup>&nbsp;
 <a href="https://fvl.fudan.edu.cn/">Yu-Gang Jiang</a><sup>1,2</sup>
 
-<br><br>
-
-<sup>1</sup>Shanghai Key Lab of Intell. Info. Processing, School of CS, Fudan University  
-<br>
-<sup>2</sup>Shanghai Collaborative Innovation Center on Intelligent Visual Computing  
-<br>
-<sup>3</sup>School of Computer Science and Technology, East China Normal University  
-<br>
+<sup>1</sup>Shanghai Key Lab of Intell. Info. Processing, School of CS, Fudan University<br>
+<sup>2</sup>Shanghai Collaborative Innovation Center on Intelligent Visual Computing<br>
+<sup>3</sup>School of Computer Science and Technology, East China Normal University<br>
 <sup>4</sup>Minimax  
 
 <!-- Uncomment below to show paper and huggingface badge -->
