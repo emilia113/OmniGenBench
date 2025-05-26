@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20-models-blue" alt="HF Model">
 </a> 
 -->
-
+</div>
 ---
 
 ## 📢 News
