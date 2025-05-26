@@ -29,15 +29,15 @@
 </div>
 <br>
 
-## 📢 News
-
+### 📢 News
+---
 
 - **[2025/05/27]** Our paper is released.
 - **[2025/05/26]** The benchmark and evaluation code will be released soon.
 
 <br>
 
-## ✅ TODO
+### ✅ TODO
 
 - [ ] Release evaluation code
 - [ ] Release benchmark data
