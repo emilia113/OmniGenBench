@@ -1,5 +1,8 @@
 <!-- start -->
-<img src="assets/omnigenbench.png" alt="OmniGenBench Logo" width="70">
+
+<div align="center">
+<img src="assets/omnigenbench.png" alt="OmniGenBench Logo" width="90">
+
 <h3>OmniGenBench: A Benchmark for Omnipotent Multimodal Generation across 50+ Tasks</h3>
 
 <a href="https://github.com/emilia113">Jiayu Wang</a><sup>1,2*</sup>&nbsp;
