@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/omnigenbench.png" alt="OmniGenBench Logo" width="120">
+<img src="assets/omnigenbench.png" alt="OmniGenBench Logo" width="90">
 
 <h3>OmniGenBench: A Benchmark for Omnipotent Multimodal Generation across 50+ Tasks</h3>
 
@@ -29,6 +29,10 @@
 -->
 
 </div>
+<div align="center">
+  <img src="assets/class.png" width="100%">
+</div>
+
 
 ---
 
@@ -46,12 +50,6 @@
 ---
 
 ## 📖 Introduction
-
-<div align="center">
-  <img src="assets/class.png" width="50%">
-</div>
-
-
 With 50+ diverse sub-tasks, **OmniGenBench** serves as a novel and comprehensive benchmark for evaluating the generality, adaptability, and reasoning capabilities of state-of-the-art generative models across both perception- and cognition-oriented generation tasks.
 
 OmniGenBench ensures task diversity and difficulty by building on MegaBench, a widely acknowledged multimodal benchmark. We reverse-engineer text queries from its tasks and apply human filtering for accuracy and challenge.
@@ -67,9 +65,6 @@ Evaluation data and toolkit will be available shortly.
 ---
 
 ## 🎨 Model Outputs Showcase
-
-<img src="assets/exper.png" alt="qualititive comparison" width="120">
-
 <div align="center">
-  <img src="assets/exper.png" width="80%">
+  <img src="assets/exper.png" width="100%">
 </div>
