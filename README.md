@@ -50,7 +50,7 @@
 
 </div>
 <div align="center">
-  <img src="assets/class.png" width="85%">
+  <img src="assets/class.png" width="92%">
 </div>
 With <b>50+ diverse sub-tasks</b>, OmniGenBench serves as a novel and comprehensive benchmark for evaluating the generality, adaptability, and reasoning capabilities of state-of-the-art generative models across both perception- and cognition-oriented generation tasks.
 
