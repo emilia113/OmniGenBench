@@ -37,7 +37,7 @@
 
 <br>
 
-## ✅ TODO
+## 📝 TODO
 
 - [ ] Release evaluation code
 - [ ] Release benchmark data
