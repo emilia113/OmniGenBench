@@ -1,6 +1,4 @@
 <!-- start -->
-
-<div align="center">
 <img src="assets/omnigenbench.png" alt="OmniGenBench Logo" width="70">
 <h3>OmniGenBench: A Benchmark for Omnipotent Multimodal Generation across 50+ Tasks</h3>
 
