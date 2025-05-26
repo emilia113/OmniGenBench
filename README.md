@@ -1,15 +1,8 @@
 <!-- start -->
 
 <div align="center">
-<!--
-<img src="assets/omnigenbench.png" alt="OmniGenBench Logo" width="50">
+<img src="assets/omnigenbench.png" alt="OmniGenBench Logo" width="70">
 <h3>OmniGenBench: A Benchmark for Omnipotent Multimodal Generation across 50+ Tasks</h3>
--->
-
-<p>
-  <img src="assets/omnigenbench.png" alt="OmniGenBench Logo" width="50" style="vertical-align: middle; margin-right: 10px;">
-  <span style="font-size: 1.5em; font-weight: bold;">OmniGenBench: A Benchmark for Omnipotent Multimodal Generation across 50+ Tasks</span>
-</p>
 
 <a href="https://github.com/emilia113">Jiayu Wang</a><sup>1,2*</sup>&nbsp;
 <a href="https://sxjyjay.github.io/">Yang Jiao</a><sup>1,2*</sup>&nbsp;
@@ -43,14 +36,17 @@
 
 ## 📢 News
 
+- **[2025/05/27]** Our paper is released.
 - **[2025/05/26]** The benchmark and evaluation code will be released soon.
 
 ---
 
 ## ✅ TODO
 
-- [ ] Release evaluation code  
-- [ ] Release data
+- [ ] Release evaluation code
+- [ ] Release benchmark data
+- [ ] Release leaderboard
+- [ ] Release example results
 
 ---
 
