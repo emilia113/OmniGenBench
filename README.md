@@ -36,6 +36,7 @@
 - **[2025/05/26]** The benchmark and evaluation code will be released soon.
 
 <br>
+<br>
 
 ## 📝 TODO
 
@@ -44,6 +45,7 @@
 - [ ] Release leaderboard
 - [ ] Release example results
 
+<br>
 <br>
 
 ## 📖 Introduction
@@ -58,6 +60,8 @@ OmniGenBench ensures task diversity and difficulty by building on MegaBench, a w
 
 To enable precise evaluation, we design dedicated evaluation protocols for both perception- and cognition-centric tasks. Each task is assigned a tailored evaluation criterion, and our protocol aligns closely with human judgment, ensuring both accuracy and consistency in performance assessment.
 
+
+<br>
 <br>
 
 ## 🛠️ Quick Start
