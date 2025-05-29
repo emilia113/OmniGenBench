@@ -38,10 +38,9 @@
 
 ## 📝 TODO
 
-- [ ] Release evaluation code
-- [ ] Release benchmark data
 - [ ] Release leaderboard
-- [ ] Release example results
+- [ ] Release evaluation code
+- [x] Release benchmark data
 
 <br>
 <br>
