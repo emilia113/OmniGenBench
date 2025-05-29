@@ -21,13 +21,16 @@
 
 <!-- Uncomment below to show paper and huggingface badge -->
 
-[![Paper](https://img.shields.io/badge/Paper-OmniGenBench-d32f2f.svg?logo=arXiv)](https://arxiv.org/abs/2505.18775)
+<p align="center">
+  <a href='https://arxiv.org/abs/2505.18775'>
+    <img src='https://img.shields.io/badge/Paper-OmniGenBench-d32f2f.svg?logo=arXiv' alt='arXiv PDF'>
+  </a>
+  
+  <a href="https://huggingface.co/datasets/emiliiia/OmniGenBench">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HF%20-OmniGenBench-blue" alt="HF Dataset">
+  </a>
+</p>
 
-<!-- 
-<a href="https://huggingface.co/OceanJay/UniToken-AnyRes-StageII">
-  <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face%20-models-blue" alt="HF Model">
-</a> 
--->
 </div>
 <br>
 
