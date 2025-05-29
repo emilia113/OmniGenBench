@@ -20,16 +20,9 @@
 <sup>4</sup>Minimax  
 
 <!-- Uncomment below to show paper and huggingface badge -->
+[![OmniGenBench](https://img.shields.io/badge/Paper-OmniGenBench-d32f2f.svg?logo=arXiv)](https://arxiv.org/abs/2505.18775)&#160;
+[![OmniGenBench](https://img.shields.io/badge/%F0%9F%A4%97%20HF%20-OmniGenBench-blue)](https://huggingface.co/datasets/emiliiia/OmniGenBench)
 
-<p align="center">
-  <a href='https://arxiv.org/abs/2505.18775'>
-    <img src='https://img.shields.io/badge/Paper-OmniGenBench-d32f2f.svg?logo=arXiv' alt='arXiv PDF'>
-  </a>
-  
-  <a href="https://huggingface.co/datasets/emiliiia/OmniGenBench">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20HF%20-OmniGenBench-blue" alt="HF Dataset">
-  </a>
-</p>
 
 </div>
 <br>
