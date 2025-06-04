@@ -61,6 +61,16 @@ To enable precise evaluation, we design dedicated evaluation protocols for both 
 <br>
 <br>
 
+## 🚀 Submit Your Model
+
+We’re currently running evaluations on OmniGenBench — a comprehensive benchmark covering 50+ real-world tasks designed to test the limits of general-purpose image generation models.
+
+If you’d like to see how your model performs across a variety of challenging and diverse prompts, feel free to leave a comment in the Issues section — GitHub repo, API endpoint, Hugging Face Space, or any other inference link are all welcome!
+
+<br>
+<br>
+
+
 ## 🛠️ Quick Start
 
 Evaluation data and toolkit will be available shortly.
