@@ -39,7 +39,7 @@
 ## 📝 TODO
 
 - [ ] Release leaderboard
-- [ ] Release evaluation code
+- [x] Release evaluation code
 - [x] Release benchmark data
 
 <br>
