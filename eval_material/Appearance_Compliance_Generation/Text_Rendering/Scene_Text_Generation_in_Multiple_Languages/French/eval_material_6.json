@@ -1,0 +1,6 @@
+{
+  "gt_text": "'Ouvre la porte'. 'Respire profondément'. 'Laisse ton monde'. 'Entre dans celui de quelqu’un d’autre'. ",
+  "ocr_type": "normal",
+  "lang": "fr",
+  "juding_criteria": "Output from Part 2:\n\n*   Four concrete steps\n*   Graffiti-style French text on the first step: \"Ouvre la porte\"\n*   Graffiti-style French text on the second step: \"Respire profondément\"\n*   Graffiti-style French text on the third step: \"Laisse ton monde\"\n*   Graffiti-style French text on the fourth step: \"Entre dans celui de quelqu’un d’autre\"\n*   An old library entrance (or building facade suggesting an old library)\n*   A worn hardcover book\n*   Book resting on the top (fourth) step\n*   Faded, unreadable title on the book"
+}

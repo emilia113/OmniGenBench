@@ -1,0 +1,38 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "relation - spatial",
+    "5": "relation - spatial",
+    "6": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      2
+    ],
+    "6": [
+      3
+    ]
+  },
+  "qid2question": {
+    "1": "Are there balloons?",
+    "2": "Is there a birthday cake?",
+    "3": "Is there confetti?",
+    "4": "Do the balloons appear in the top-right corner?",
+    "5": "Is the birthday cake placed in the bottom-middle?",
+    "6": "Is the confetti scattered throughout the left side?"
+  }
+}

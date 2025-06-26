@@ -1,0 +1,6 @@
+{
+  "gt_text": "\\hat{f}(\\xi) = \\int_{-\\infty}^{\\infty} f(x) e^{-2\\pi i x \\xi} \\, dx",
+  "ocr_type": "formula",
+  "lang": "en",
+  "juding_criteria": "Based on the Key Requirement and the specific prompt:\n\n*   Key Requirement: The image must clearly display the specified mathematical formula typeset in a mathematical style on a white background.\n*   Specific Prompt: Generate an image of the formula for Fourier Transform Formula, clearly typeset in a mathematical style on a white background.\n\nThe required concrete visual elements are:\n\n*   Fourier Transform Formula\n*   Mathematical typesetting style for the formula\n*   White background"
+}

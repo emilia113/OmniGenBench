@@ -1,0 +1,3 @@
+[
+  "Here is a list of the required visual elements:\n\n*   Labeled node A\n*   Labeled node B\n*   Labeled node C\n*   Labeled node D\n*   Directed arrow from node A to node B\n*   Directed arrow from node B to node A\n*   Directed arrow from node C to node D\n*   Strongly connected component {A, B} visually grouped (e.g., by a shared node color or an enclosing shape) using a first distinct color or style.\n*   Strongly connected component {C} visually marked (e.g., by node C's color or an enclosing shape) using a second distinct color or style, different from the first and third.\n*   Strongly connected component {D} visually marked (e.g., by node D's color or an enclosing shape) using a third distinct color or style, different from the first and second."
+]

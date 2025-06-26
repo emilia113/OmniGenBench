@@ -1,0 +1,6 @@
+{
+  "gt_text": "你没有迟到 你正在路上 深呼吸，微笑，继续前行 快到了",
+  "ocr_type": "normal",
+  "lang": "ch",
+  "juding_criteria": "Output from Part 2:\n\n*   A bedroom mirror.\n*   Multiple sticky notes on the mirror surface.\n*   A sticky note positioned in the top left area of the mirror.\n*   Legible Chinese text '你没有迟到' on the top left sticky note.\n*   A sticky note positioned in the middle area of the mirror.\n*   Legible Chinese text '你正在路上' on the middle sticky note.\n*   A sticky note positioned in the bottom right area of the mirror.\n*   Legible Chinese text '深呼吸，微笑，继续前行' on the bottom right sticky note.\n*   A single crumpled sticky note on the floor.\n*   Legible Chinese text '快到了' on the crumpled sticky note on the floor."
+}

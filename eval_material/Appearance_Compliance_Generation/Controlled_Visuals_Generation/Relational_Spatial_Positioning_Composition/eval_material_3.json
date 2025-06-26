@@ -1,0 +1,200 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "other - count",
+    "3": "entity - whole",
+    "4": "attribute - state",
+    "5": "relation - spatial",
+    "6": "attribute - state",
+    "7": "entity - part",
+    "8": "relation - spatial",
+    "9": "entity - whole",
+    "10": "entity - whole",
+    "11": "entity - whole",
+    "12": "entity - whole",
+    "13": "entity - whole",
+    "14": "attribute - color",
+    "15": "attribute - color",
+    "16": "attribute - shape",
+    "17": "relation - spatial",
+    "18": "attribute - color",
+    "19": "attribute - color",
+    "20": "attribute - color",
+    "21": "attribute - shape",
+    "22": "relation - spatial",
+    "23": "attribute - color",
+    "24": "attribute - color",
+    "25": "attribute - color",
+    "26": "attribute - shape",
+    "27": "relation - spatial",
+    "28": "attribute - color",
+    "29": "attribute - color",
+    "30": "attribute - material",
+    "31": "relation - spatial",
+    "32": "attribute - material",
+    "33": "attribute - color",
+    "34": "attribute - shape",
+    "35": "relation - spatial",
+    "36": "attribute - color",
+    "37": "attribute - state"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      1,
+      3
+    ],
+    "6": [
+      1
+    ],
+    "7": [
+      1
+    ],
+    "8": [
+      1,
+      7
+    ],
+    "9": [
+      0
+    ],
+    "10": [
+      0
+    ],
+    "11": [
+      0
+    ],
+    "12": [
+      0
+    ],
+    "13": [
+      0
+    ],
+    "14": [
+      1
+    ],
+    "15": [
+      14
+    ],
+    "16": [
+      1
+    ],
+    "17": [
+      1,
+      9
+    ],
+    "18": [
+      9
+    ],
+    "19": [
+      1
+    ],
+    "20": [
+      19
+    ],
+    "21": [
+      1
+    ],
+    "22": [
+      1,
+      10
+    ],
+    "23": [
+      10
+    ],
+    "24": [
+      1
+    ],
+    "25": [
+      24
+    ],
+    "26": [
+      1
+    ],
+    "27": [
+      1,
+      11
+    ],
+    "28": [
+      11
+    ],
+    "29": [
+      1
+    ],
+    "30": [
+      29
+    ],
+    "31": [
+      1,
+      12
+    ],
+    "32": [
+      12
+    ],
+    "33": [
+      1
+    ],
+    "34": [
+      1
+    ],
+    "35": [
+      1,
+      13
+    ],
+    "36": [
+      13
+    ],
+    "37": [
+      13
+    ]
+  },
+  "qid2question": {
+    "1": "Are there gift boxes?",
+    "2": "Are there five gift boxes?",
+    "3": "Is there a table?",
+    "4": "Are the gift boxes neatly arranged?",
+    "5": "Are the gift boxes on the table?",
+    "6": "Are the gift boxes open?",
+    "7": "Do the gift boxes have lids?",
+    "8": "Are the lids to the side or behind the gift boxes?",
+    "9": "Are there sunglasses?",
+    "10": "Is there a fountain pen?",
+    "11": "Is there a perfume bottle?",
+    "12": "Is there a wristwatch?",
+    "13": "Is there a scarf?",
+    "14": "Is the first gift box red?",
+    "15": "Is the ribbon on the first gift box gold?",
+    "16": "Is the first gift box square?",
+    "17": "Are the sunglasses in the first gift box?",
+    "18": "Are the sunglasses dark blue?",
+    "19": "Is the second gift box blue?",
+    "20": "Is the ribbon on the second gift box silver?",
+    "21": "Is the second gift box rectangular?",
+    "22": "Is the fountain pen in the second gift box?",
+    "23": "Is the fountain pen black?",
+    "24": "Is the third gift box pink?",
+    "25": "Is the bow on the third gift box white?",
+    "26": "Is the third gift box square?",
+    "27": "Is the perfume bottle in the third gift box?",
+    "28": "Is the perfume bottle transparent pink?",
+    "29": "Is the fourth gift box yellow?",
+    "30": "Is the lid of the fourth gift box transparent?",
+    "31": "Is the wristwatch in the fourth gift box?",
+    "32": "Is the wristwatch made of gold metal?",
+    "33": "Is the fifth gift box green?",
+    "34": "Is the fifth gift box cylindrical?",
+    "35": "Is the scarf in the fifth gift box?",
+    "36": "Is the scarf dark gray?",
+    "37": "Is the scarf rolled into a spiral?"
+  }
+}

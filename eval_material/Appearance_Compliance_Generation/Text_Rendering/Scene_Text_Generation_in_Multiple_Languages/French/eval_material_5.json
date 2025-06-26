@@ -1,0 +1,6 @@
+{
+  "gt_text": "'Bienvenue dans un endroit que vous ne voudrez quitter que lorsque ce sera absolument nécessaire' 'Départ : 11h pile. Café disponible jusqu’à 10h45'",
+  "ocr_type": "normal",
+  "lang": "fr",
+  "juding_criteria": "Output from Part 2:\n\n*   Hotel front desk\n*   Letterboard positioned above the hotel front desk\n*   Neat plastic lettering on the letterboard\n*   French text \"Bienvenue dans un endroit que vous ne voudrez quitter que lorsque ce sera absolument nécessaire\" on the letterboard\n*   Small printed sign positioned below the letterboard\n*   French text \"Départ : 11h pile. Café disponible jusqu’à 10h45\" on the small printed sign"
+}

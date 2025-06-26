@@ -1,0 +1,6 @@
+{
+  "gt_text": "'you are not late'. 'you are just on your way' 'breathe. smile. proceed.' 'almost there.'",
+  "ocr_type": "normal",
+  "lang": "en",
+  "juding_criteria": "Output from Part 2:\n\n*   A bedroom mirror.\n*   Multiple sticky notes scattered across the mirror surface.\n*   A sticky note positioned top left on the mirror.\n*   Legible text \"you are not late\" on the top left sticky note.\n*   A sticky note positioned in the middle of the mirror.\n*   Legible text \"you are just on your way\" on the middle sticky note.\n*   A sticky note positioned bottom right on the mirror.\n*   Legible text \"breathe. smile. proceed.\" on the bottom right sticky note.\n*   A floor visible beneath/near the mirror.\n*   A single crumpled sticky note on the floor.\n*   Legible text \"almost there.\" on the crumpled sticky note."
+}

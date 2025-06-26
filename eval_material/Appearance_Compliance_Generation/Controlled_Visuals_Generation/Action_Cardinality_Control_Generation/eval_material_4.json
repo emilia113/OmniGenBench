@@ -1,0 +1,48 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "other - count",
+    "3": "entity - part",
+    "4": "entity - part",
+    "5": "other - count",
+    "6": "other - count",
+    "7": "action -",
+    "8": "action -"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      3
+    ],
+    "6": [
+      4
+    ],
+    "7": [
+      3
+    ],
+    "8": [
+      4
+    ]
+  },
+  "qid2question": {
+    "1": "Are there ballet dancers?",
+    "2": "Are there six ballet dancers?",
+    "3": "Are there dancers performing spins?",
+    "4": "Are there dancers doing jumps?",
+    "5": "Are there four dancers performing spins?",
+    "6": "Are there two dancers doing jumps?",
+    "7": "Are the dancers performing spins?",
+    "8": "Are the dancers doing jumps?"
+  }
+}

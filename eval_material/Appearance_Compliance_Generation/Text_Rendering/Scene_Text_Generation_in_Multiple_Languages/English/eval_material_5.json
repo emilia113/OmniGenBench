@@ -1,0 +1,6 @@
+{
+  "gt_text": "'Welcome to somewhere you won’t want to leave until you absolutely must.''Check-out time: 11:00 AM sharp. Coffee available until 10:45.'",
+  "ocr_type": "normal",
+  "lang": "en",
+  "juding_criteria": "Here is a bullet list of required visual elements:\n\n*   Hotel front desk\n*   Letterboard (positioned above the hotel front desk)\n*   Neat plastic lettering style (for the letterboard text)\n*   Text on letterboard: \"Welcome to somewhere you won’t want to leave until you absolutely must.\"\n*   Small printed sign (positioned below the letterboard)\n*   Text on small sign: \"Check-out time: 11:00 AM sharp.\"\n*   Text on small sign: \"Coffee available until 10:45.\""
+}

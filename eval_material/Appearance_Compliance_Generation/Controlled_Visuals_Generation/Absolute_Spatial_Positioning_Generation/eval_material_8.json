@@ -1,0 +1,54 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "entity - whole",
+    "5": "relation - spatial",
+    "6": "attribute - state",
+    "7": "relation - spatial",
+    "8": "relation - spatial",
+    "9": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      2
+    ],
+    "7": [
+      2
+    ],
+    "8": [
+      3
+    ],
+    "9": [
+      3,
+      4
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a bookshelf?",
+    "2": "Is there a cat?",
+    "3": "Is there a clock?",
+    "4": "Is there a wall?",
+    "5": "Is the bookshelf on the right side?",
+    "6": "Is the cat sitting?",
+    "7": "Is the cat in the bottom-left corner?",
+    "8": "Is the clock hanging in the top-middle area?",
+    "9": "Is the clock on the wall?"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "entity - whole",
+    "5": "entity - whole",
+    "6": "entity - part",
+    "7": "entity - part",
+    "8": "entity - whole",
+    "9": "entity - whole",
+    "10": "entity - whole",
+    "11": "entity - whole",
+    "12": "entity - whole",
+    "13": "entity - whole",
+    "14": "entity - whole",
+    "15": "entity - whole",
+    "16": "entity - whole",
+    "17": "other - count",
+    "18": "attribute - color",
+    "19": "attribute - material",
+    "20": "attribute - color",
+    "21": "relation - spatial",
+    "22": "relation - spatial",
+    "23": "attribute - state",
+    "24": "attribute - color",
+    "25": "attribute - state",
+    "26": "attribute - color",
+    "27": "relation - spatial",
+    "28": "attribute - color",
+    "29": "attribute - material",
+    "30": "attribute - material",
+    "31": "attribute - color",
+    "32": "attribute - color",
+    "33": "attribute - color",
+    "34": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      2
+    ],
+    "5": [
+      3
+    ],
+    "6": [
+      5
+    ],
+    "7": [
+      5
+    ],
+    "8": [
+      3
+    ],
+    "9": [
+      3
+    ],
+    "10": [
+      4
+    ],
+    "11": [
+      4
+    ],
+    "12": [
+      11
+    ],
+    "13": [
+      4
+    ],
+    "14": [
+      1
+    ],
+    "15": [
+      14
+    ],
+    "16": [
+      14
+    ],
+    "17": [
+      16
+    ],
+    "18": [
+      6
+    ],
+    "19": [
+      7
+    ],
+    "20": [
+      8
+    ],
+    "21": [
+      8,
+      5
+    ],
+    "22": [
+      9,
+      5
+    ],
+    "23": [
+      9
+    ],
+    "24": [
+      10
+    ],
+    "25": [
+      10
+    ],
+    "26": [
+      11
+    ],
+    "27": [
+      11,
+      10
+    ],
+    "28": [
+      12
+    ],
+    "29": [
+      12
+    ],
+    "30": [
+      13
+    ],
+    "31": [
+      15
+    ],
+    "32": [
+      16
+    ],
+    "33": [
+      16
+    ],
+    "34": [
+      32,
+      33
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a bedroom?",
+    "2": "Are there bedside arrangements?",
+    "3": "Is there a left bedside table?",
+    "4": "Is there a right bedside table?",
+    "5": "Is there a table lamp?",
+    "6": "Does the table lamp have a lampshade?",
+    "7": "Does the table lamp have a base?",
+    "8": "Is there a book?",
+    "9": "Is there a glass of water?",
+    "10": "Is there an alarm clock?",
+    "11": "Is there a plant?",
+    "12": "Is there a pot?",
+    "13": "Is there a tray?",
+    "14": "Is there a bed?",
+    "15": "Is there a bedsheet?",
+    "16": "Are there pillows?",
+    "17": "Are there two pillows?",
+    "18": "Is the lampshade beige?",
+    "19": "Is the base of the table lamp made of wood?",
+    "20": "Is the book purple?",
+    "21": "Is the book under the table lamp?",
+    "22": "Is the glass of water next to the table lamp?",
+    "23": "Is the glass of water half full?",
+    "24": "Is the alarm clock white?",
+    "25": "Does the alarm clock display 8:15?",
+    "26": "Is the plant green?",
+    "27": "Is the plant behind the alarm clock?",
+    "28": "Is the pot light gray?",
+    "29": "Is the pot made of ceramic?",
+    "30": "Is the tray made of wood?",
+    "31": "Is the bedsheet deep blue?",
+    "32": "Is one pillow gray?",
+    "33": "Is the other pillow white?",
+    "34": "Is the gray pillow in front of the white pillow?"
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "attribute - color",
+    "3": "attribute - type",
+    "4": "entity - part",
+    "5": "entity - part",
+    "6": "relation - spatial",
+    "7": "entity - whole",
+    "8": "attribute - material",
+    "9": "entity - part",
+    "10": "attribute - color",
+    "11": "relation - spatial",
+    "12": "entity - whole",
+    "13": "attribute - color",
+    "14": "attribute - state",
+    "15": "entity - whole",
+    "16": "attribute - texture",
+    "17": "attribute - pattern",
+    "18": "entity - whole",
+    "19": "attribute - color",
+    "20": "attribute - state",
+    "21": "entity - whole",
+    "22": "attribute - material",
+    "23": "attribute - shape",
+    "24": "entity - whole",
+    "25": "attribute - scale",
+    "26": "entity - whole",
+    "27": "attribute - color",
+    "28": "entity - part",
+    "29": "relation - spatial",
+    "30": "entity - whole",
+    "31": "attribute - color",
+    "32": "entity - part",
+    "33": "attribute - color",
+    "34": "entity - whole",
+    "35": "entity - part",
+    "36": "entity - part",
+    "37": "entity - part",
+    "38": "relation - spatial",
+    "39": "relation - spatial",
+    "40": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      0
+    ],
+    "6": [
+      4,
+      5
+    ],
+    "7": [
+      0
+    ],
+    "8": [
+      7
+    ],
+    "9": [
+      7
+    ],
+    "10": [
+      9
+    ],
+    "11": [
+      7,
+      9
+    ],
+    "12": [
+      0
+    ],
+    "13": [
+      12
+    ],
+    "14": [
+      12
+    ],
+    "15": [
+      0
+    ],
+    "16": [
+      15
+    ],
+    "17": [
+      15
+    ],
+    "18": [
+      0
+    ],
+    "19": [
+      18
+    ],
+    "20": [
+      18
+    ],
+    "21": [
+      0
+    ],
+    "22": [
+      21
+    ],
+    "23": [
+      21
+    ],
+    "24": [
+      0
+    ],
+    "25": [
+      24
+    ],
+    "26": [
+      24
+    ],
+    "27": [
+      26
+    ],
+    "28": [
+      0
+    ],
+    "29": [
+      26,
+      28
+    ],
+    "30": [
+      0
+    ],
+    "31": [
+      30
+    ],
+    "32": [
+      30
+    ],
+    "33": [
+      32
+    ],
+    "34": [
+      0
+    ],
+    "35": [
+      34
+    ],
+    "36": [
+      34
+    ],
+    "37": [
+      34
+    ],
+    "38": [
+      34,
+      35
+    ],
+    "39": [
+      35,
+      36
+    ],
+    "40": [
+      35,
+      37
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a notebook?",
+    "2": "Is the notebook green?",
+    "3": "Does the notebook have a spiral binding?",
+    "4": "Does the notebook have a cover?",
+    "5": "Is there a lightning bolt sticker?",
+    "6": "Is the lightning bolt sticker on the notebook's cover?",
+    "7": "Is there a jar?",
+    "8": "Is the jar made of glass?",
+    "9": "Are there marbles?",
+    "10": "Are the marbles multicolored?",
+    "11": "Are the marbles in the jar?",
+    "12": "Is there a sneaker?",
+    "13": "Is the sneaker red?",
+    "14": "Are the sneaker's laces untied?",
+    "15": "Is there an umbrella?",
+    "16": "Is the umbrella transparent?",
+    "17": "Does the umbrella have a raindrop pattern?",
+    "18": "Is there a laptop?",
+    "19": "Is the laptop silver?",
+    "20": "Is the laptop's screen cracked?",
+    "21": "Is there a trophy?",
+    "22": "Is the trophy made of gold?",
+    "23": "Is the trophy shaped like a star?",
+    "24": "Is there a cactus?",
+    "25": "Is the cactus small?",
+    "26": "Is there a pot?",
+    "27": "Is the pot pink?",
+    "28": "Is there a smiley face?",
+    "29": "Is the smiley face on the pot?",
+    "30": "Is there a camera?",
+    "31": "Is the camera black?",
+    "32": "Does the camera have a strap?",
+    "33": "Is the camera's strap rainbow-colored?",
+    "34": "Is there a bowl?",
+    "35": "Is there cereal?",
+    "36": "Is there a spoon?",
+    "37": "Is there a strawberry?",
+    "38": "Is the cereal in the bowl?",
+    "39": "Is the spoon sticking out of the cereal?",
+    "40": "Is the strawberry on top of the cereal?"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "gt_text": "春のリフレッシュセール",
+  "ocr_type": "normal",
+  "lang": "japan",
+  "juding_criteria": "Okay, let's break this down.\n\n**Input:**\n*   **Key Requirement:** The image must include a prominently displayed title in Japanese that aligns with the theme of the poster.\n*   **Specific Prompt:** The advertising poster has a flat illustration style with clean lines and pastel colors. The title “春のリフレッシュセール” ... and a promo bar with a discount code.\n\n**Procedure:**\n\n1.  **Combine Key Requirement and Prompt Details:**\n    *   The Key Requirement demands a \"prominently displayed title in Japanese.\"\n    *   The Specific Prompt *provides* that Japanese title: “春のリフレッシュセール”.\n    *   The Specific Prompt also adds other visual elements: \"a promo bar\" and \"a discount code.\"\n    *   The style requirements (\"flat illustration,\" \"clean lines,\" \"pastel colors\") describe *how* these elements should look, but are not elements themselves.\n\n2.  **Identify Distinct Visual Elements:**\n    *   The Japanese title itself: “春のリフレッシュセール”\n    *   A promo bar\n    *   A discount code (which will likely be on or part of the promo bar)\n\n3.  **Write as Short Noun Phrases:**\n\n**Output from Part 2:**\n\n*   Japanese title “春のリフレッシュセール”\n*   A promo bar\n*   A discount code"
+}

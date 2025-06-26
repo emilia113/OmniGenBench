@@ -1,0 +1,86 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "other - count",
+    "5": "entity - whole",
+    "6": "entity - whole",
+    "7": "other - count",
+    "8": "entity - whole",
+    "9": "other - count",
+    "10": "entity - whole",
+    "11": "entity - whole",
+    "12": "action -",
+    "13": "relation - spatial",
+    "14": "relation - spatial",
+    "15": "action -"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      3
+    ],
+    "5": [
+      2
+    ],
+    "6": [
+      0
+    ],
+    "7": [
+      6
+    ],
+    "8": [
+      0
+    ],
+    "9": [
+      8
+    ],
+    "10": [
+      0
+    ],
+    "11": [
+      0
+    ],
+    "12": [
+      3,
+      5
+    ],
+    "13": [
+      2,
+      6
+    ],
+    "14": [
+      8,
+      11
+    ],
+    "15": [
+      10
+    ]
+  },
+  "qid2question": {
+    "1": "Is there an underwater scene?",
+    "2": "Is there a coral reef?",
+    "3": "Are there tropical fish?",
+    "4": "Are there five tropical fish?",
+    "5": "Are there corals?",
+    "6": "Are there starfish?",
+    "7": "Are there three starfish?",
+    "8": "Are there crabs?",
+    "9": "Are there four crabs?",
+    "10": "Is there a sea turtle?",
+    "11": "Is there a seabed?",
+    "12": "Are the tropical fish swimming among the corals?",
+    "13": "Are the starfish next to the coral reef?",
+    "14": "Are the crabs on the seabed?",
+    "15": "Is the sea turtle swimming in the distance?"
+  }
+}

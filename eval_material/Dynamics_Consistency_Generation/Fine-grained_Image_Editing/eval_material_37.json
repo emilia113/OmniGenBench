@@ -1,0 +1,3 @@
+{
+  "juding_criteria": "Based on the Key Requirement (\"The image must be the result of accurately modifying the conditional image according to the instruction\") and the specific prompt (\"Take away the flowers in the middle of the table\"), the final image must contain the following visual elements from the original image, with the specified modification:\n\n*   Wooden dining table\n*   Six wooden chairs\n*   Six place settings (including plates, bowls, glasses, and cutlery)\n*   Window in the background\n*   Outdoor greenery visible through the window\n*   Brown curtains\n*   Dark wooden cabinet in the background\n*   Tiled floor"
+}

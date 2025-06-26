@@ -1,0 +1,48 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "relation - spatial",
+    "5": "attribute - state",
+    "6": "relation - spatial",
+    "7": "attribute - state",
+    "8": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      2
+    ],
+    "6": [
+      2
+    ],
+    "7": [
+      3
+    ],
+    "8": [
+      3
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a cloud?",
+    "2": "Is there a bicycle?",
+    "3": "Is there a lamppost?",
+    "4": "Is the cloud in the upper-right area?",
+    "5": "Is the bicycle parked?",
+    "6": "Is the bicycle in the bottom-left corner?",
+    "7": "Is the lamppost standing?",
+    "8": "Is the lamppost near the middle-right side?"
+  }
+}

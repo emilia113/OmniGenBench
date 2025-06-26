@@ -1,0 +1,59 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "entity - whole",
+    "5": "attribute - color",
+    "6": "attribute - state",
+    "7": "relation - spatial",
+    "8": "relation - spatial",
+    "9": "relation - spatial",
+    "10": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      4
+    ],
+    "7": [
+      1
+    ],
+    "8": [
+      2,
+      3
+    ],
+    "9": [
+      2
+    ],
+    "10": [
+      4
+    ]
+  },
+  "qid2question": {
+    "1": "Is there an umbrella?",
+    "2": "Is there a person?",
+    "3": "Is there a coffee cup?",
+    "4": "Is there a sky?",
+    "5": "Is the umbrella red?",
+    "6": "Is the sky cloudy?",
+    "7": "Is the umbrella in the bottom-left corner?",
+    "8": "Is the person holding a coffee cup?",
+    "9": "Is the person near the center?",
+    "10": "Is the sky filling the top half of the image?"
+  }
+}

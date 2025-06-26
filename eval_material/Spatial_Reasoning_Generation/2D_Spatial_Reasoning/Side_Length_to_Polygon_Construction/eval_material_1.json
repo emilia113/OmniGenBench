@@ -1,0 +1,3 @@
+[
+  "Here is a list of every concrete visual element that the final image must contain:\n\n*   A polygon.\n*   The first side of the polygon, having a relative length of 5.\n*   The second side of the polygon, having a relative length of 5, following the first side in a clockwise direction.\n*   The third side of the polygon, having a relative length of 5, following the second side in a clockwise direction and closing the polygon."
+]

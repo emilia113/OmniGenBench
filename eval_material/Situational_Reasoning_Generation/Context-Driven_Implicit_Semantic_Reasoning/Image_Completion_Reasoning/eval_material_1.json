@@ -1,0 +1,3 @@
+[
+  "Here is a bullet list of required elements:\n\n*   \"Current weather\" text.\n*   \"5:48 PM\" text.\n*   Large \"24°C\" text.\n*   \"Mostly cloudy\" text (as the weather condition description).\n*   \"Feels like 25°\" text.\n*   \"The skies will be mostly cloudy. The high will be 24°\" text.\n*   A weather icon representing \"mostly cloudy\" conditions, located in the area to the left of the \"24°C\" text (where the red box was in the input image)."
+]

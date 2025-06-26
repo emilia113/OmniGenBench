@@ -1,0 +1,149 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "entity - whole",
+    "5": "entity - whole",
+    "6": "entity - whole",
+    "7": "entity - whole",
+    "8": "entity - part",
+    "9": "entity - part",
+    "10": "attribute - color",
+    "11": "attribute - state",
+    "12": "relation - spatial",
+    "13": "attribute - color",
+    "14": "relation - spatial",
+    "15": "attribute - color",
+    "16": "relation - spatial",
+    "17": "attribute - color",
+    "18": "other - text rendering",
+    "19": "relation - spatial",
+    "20": "attribute - color",
+    "21": "attribute - material",
+    "22": "attribute - color",
+    "23": "attribute - state",
+    "24": "relation - spatial",
+    "25": "attribute - color",
+    "26": "relation - spatial",
+    "27": "attribute - state"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      0
+    ],
+    "6": [
+      0
+    ],
+    "7": [
+      0
+    ],
+    "8": [
+      2
+    ],
+    "9": [
+      6
+    ],
+    "10": [
+      2
+    ],
+    "11": [
+      8
+    ],
+    "12": [
+      1,
+      2
+    ],
+    "13": [
+      3
+    ],
+    "14": [
+      2,
+      3
+    ],
+    "15": [
+      4
+    ],
+    "16": [
+      1,
+      4
+    ],
+    "17": [
+      5
+    ],
+    "18": [
+      5
+    ],
+    "19": [
+      4,
+      5
+    ],
+    "20": [
+      6
+    ],
+    "21": [
+      6
+    ],
+    "22": [
+      9
+    ],
+    "23": [
+      9
+    ],
+    "24": [
+      2,
+      6
+    ],
+    "25": [
+      7
+    ],
+    "26": [
+      2,
+      7
+    ],
+    "27": [
+      7
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a workspace tabletop?",
+    "2": "Is there a laptop?",
+    "3": "Is there a mouse?",
+    "4": "Is there a notebook?",
+    "5": "Is there a sticky note?",
+    "6": "Is there a mug?",
+    "7": "Are there glasses?",
+    "8": "Does the laptop have a screen?",
+    "9": "Does the mug have liquid?",
+    "10": "Is the laptop black?",
+    "11": "Is there a spreadsheet open on the laptop's screen?",
+    "12": "Is the laptop in the center of the workspace tabletop?",
+    "13": "Is the mouse gray?",
+    "14": "Is the mouse on the left side of the laptop?",
+    "15": "Is the notebook green?",
+    "16": "Is the notebook near the table corner?",
+    "17": "Is the sticky note yellow?",
+    "18": "Does the sticky note say \"To Do Today\"?",
+    "19": "Is the sticky note on the cover of the notebook?",
+    "20": "Is the mug white?",
+    "21": "Is the mug made of ceramic?",
+    "22": "Is the liquid in the mug light brown?",
+    "23": "Is the liquid in the mug releasing steam?",
+    "24": "Is the mug on the right of the laptop?",
+    "25": "Are the glasses black-rimmed?",
+    "26": "Are the glasses on the top-right corner of the laptop?",
+    "27": "Are the arms of the glasses unfolded?"
+  }
+}

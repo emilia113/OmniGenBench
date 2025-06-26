@@ -1,0 +1,6 @@
+{
+  "gt_text": "R_{\\mu\\nu} - \\frac{1}{2}R\\,g_{\\mu\\nu} + \\Lambda g_{\\mu\\nu} = \\frac{8\\pi G}{c^4} T_{\\mu\\nu}",
+  "ocr_type": "formula",
+  "lang": "en",
+  "juding_criteria": "Based on the Key Requirement and the specific prompt:\n\nKey Requirement: \"The image must clearly display the specified mathematical formula typeset in a mathematical style on a white background.\"\nSpecific Prompt: \"Generate an image of the formula for Einstein Field Equations in General Relativity, clearly typeset in a mathematical style on a white background.\"\n\nThe distinct visual elements that the generated image must include are:\n\n*   The Einstein Field Equations formula, clearly typeset in a mathematical style.\n*   A white background."
+}

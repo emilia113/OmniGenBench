@@ -1,0 +1,48 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "other - count",
+    "3": "entity - part",
+    "4": "other - count",
+    "5": "entity - part",
+    "6": "other - count",
+    "7": "attribute - state",
+    "8": "attribute - state"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      3
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      5
+    ],
+    "7": [
+      3
+    ],
+    "8": [
+      5
+    ]
+  },
+  "qid2question": {
+    "1": "Are there cats?",
+    "2": "Are there a total of nine cats?",
+    "3": "Are there cats grooming themselves?",
+    "4": "Are there three cats grooming themselves?",
+    "5": "Are there cats stretching?",
+    "6": "Are there six cats stretching?",
+    "7": "Are the cats grooming themselves?",
+    "8": "Are the cats stretching?"
+  }
+}

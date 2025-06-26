@@ -1,0 +1,44 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "relation - spatial",
+    "5": "relation - spatial",
+    "6": "relation - spatial",
+    "7": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      1,
+      2
+    ],
+    "6": [
+      2
+    ],
+    "7": [
+      3
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a tent?",
+    "2": "Is there a campfire?",
+    "3": "Are there trees?",
+    "4": "Is the tent in the bottom-right corner?",
+    "5": "Is the campfire in front of the tent?",
+    "6": "Is the campfire in the center-bottom?",
+    "7": "Are the trees lining the left side?"
+  }
+}

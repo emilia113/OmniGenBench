@@ -1,0 +1,174 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "attribute - color",
+    "3": "entity - part",
+    "4": "entity - whole",
+    "5": "relation - spatial",
+    "6": "entity - whole",
+    "7": "attribute - color",
+    "8": "attribute - pattern",
+    "9": "entity - whole",
+    "10": "attribute - type",
+    "11": "entity - part",
+    "12": "other - count",
+    "13": "attribute - state",
+    "14": "entity - whole",
+    "15": "attribute - color",
+    "16": "attribute - accessory",
+    "17": "entity - whole",
+    "18": "attribute - material",
+    "19": "attribute - shape",
+    "20": "entity - whole",
+    "21": "attribute - color",
+    "22": "attribute - time",
+    "23": "entity - whole",
+    "24": "attribute - color",
+    "25": "attribute - pattern",
+    "26": "entity - whole",
+    "27": "attribute - color",
+    "28": "entity - part",
+    "29": "attribute - shape",
+    "30": "entity - whole",
+    "31": "attribute - color",
+    "32": "entity - part",
+    "33": "attribute - size"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      3,
+      4
+    ],
+    "6": [
+      0
+    ],
+    "7": [
+      6
+    ],
+    "8": [
+      6
+    ],
+    "9": [
+      0
+    ],
+    "10": [
+      9
+    ],
+    "11": [
+      9
+    ],
+    "12": [
+      11
+    ],
+    "13": [
+      11
+    ],
+    "14": [
+      0
+    ],
+    "15": [
+      14
+    ],
+    "16": [
+      14
+    ],
+    "17": [
+      0
+    ],
+    "18": [
+      17
+    ],
+    "19": [
+      17
+    ],
+    "20": [
+      0
+    ],
+    "21": [
+      20
+    ],
+    "22": [
+      20
+    ],
+    "23": [
+      0
+    ],
+    "24": [
+      23
+    ],
+    "25": [
+      23
+    ],
+    "26": [
+      0
+    ],
+    "27": [
+      26
+    ],
+    "28": [
+      26
+    ],
+    "29": [
+      28
+    ],
+    "30": [
+      0
+    ],
+    "31": [
+      30
+    ],
+    "32": [
+      30
+    ],
+    "33": [
+      32
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a backpack?",
+    "2": "Is the backpack red?",
+    "3": "Does the backpack have a side pocket?",
+    "4": "Is there a sunflower?",
+    "5": "Is the sunflower sticking out of the backpack's side pocket?",
+    "6": "Is there an umbrella?",
+    "7": "Is the umbrella blue?",
+    "8": "Does the umbrella have white clouds printed on the canopy?",
+    "9": "Is there a cake?",
+    "10": "Is the cake chocolate?",
+    "11": "Does the cake have candles?",
+    "12": "Are there five candles on the cake?",
+    "13": "Are the candles lit?",
+    "14": "Is there a rubber duck?",
+    "15": "Is the rubber duck green?",
+    "16": "Is the rubber duck wearing sunglasses?",
+    "17": "Is there a keychain?",
+    "18": "Is the keychain made of silver?",
+    "19": "Is the keychain in the shape of a dolphin?",
+    "20": "Is there an alarm clock?",
+    "21": "Is the alarm clock yellow?",
+    "22": "Does the alarm clock show 7:00?",
+    "23": "Is there a skateboard?",
+    "24": "Is the skateboard purple?",
+    "25": "Does the skateboard have flame decals?",
+    "26": "Is there an envelope?",
+    "27": "Is the envelope pink?",
+    "28": "Does the envelope have a sticker?",
+    "29": "Is the sticker on the envelope shaped like a heart?",
+    "30": "Is there a teddy bear?",
+    "31": "Is the teddy bear brown?",
+    "32": "Does the teddy bear have a book?",
+    "33": "Is the book held by the teddy bear tiny?"
+  }
+}

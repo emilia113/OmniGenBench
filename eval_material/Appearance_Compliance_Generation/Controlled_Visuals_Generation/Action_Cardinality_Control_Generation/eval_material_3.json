@@ -1,0 +1,48 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "other - count",
+    "3": "other - count",
+    "4": "other - count",
+    "5": "other - count",
+    "6": "attribute - state",
+    "7": "attribute - state",
+    "8": "attribute - state"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      3
+    ],
+    "7": [
+      4
+    ],
+    "8": [
+      5
+    ]
+  },
+  "qid2question": {
+    "1": "Are there horses?",
+    "2": "Are there six horses?",
+    "3": "Are there three running horses?",
+    "4": "Are there two grazing horses?",
+    "5": "Is there one horse drinking water?",
+    "6": "Are the horses running?",
+    "7": "Are the horses grazing?",
+    "8": "Is the horse drinking water?"
+  }
+}

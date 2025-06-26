@@ -1,0 +1,139 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "other - count",
+    "3": "entity - whole",
+    "4": "relation - spatial",
+    "5": "attribute - state",
+    "6": "entity - whole",
+    "7": "attribute - clothing",
+    "8": "entity - part",
+    "9": "action -",
+    "10": "entity - whole",
+    "11": "attribute - clothing",
+    "12": "entity - part",
+    "13": "action -",
+    "14": "entity - whole",
+    "15": "attribute - clothing",
+    "16": "relation - spatial",
+    "17": "attribute - state",
+    "18": "attribute - state",
+    "19": "entity - whole",
+    "20": "attribute - clothing",
+    "21": "entity - part",
+    "22": "action -",
+    "23": "entity - whole",
+    "24": "attribute - clothing",
+    "25": "relation - spatial",
+    "26": "action -"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      1,
+      3
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      1
+    ],
+    "7": [
+      6
+    ],
+    "8": [
+      6
+    ],
+    "9": [
+      6
+    ],
+    "10": [
+      1
+    ],
+    "11": [
+      10
+    ],
+    "12": [
+      10
+    ],
+    "13": [
+      10
+    ],
+    "14": [
+      1
+    ],
+    "15": [
+      14
+    ],
+    "16": [
+      14
+    ],
+    "17": [
+      14
+    ],
+    "18": [
+      14
+    ],
+    "19": [
+      1
+    ],
+    "20": [
+      19
+    ],
+    "21": [
+      19
+    ],
+    "22": [
+      19
+    ],
+    "23": [
+      1
+    ],
+    "24": [
+      23
+    ],
+    "25": [
+      23
+    ],
+    "26": [
+      23
+    ]
+  },
+  "qid2question": {
+    "1": "Are there adults?",
+    "2": "Are there five adults?",
+    "3": "Is there a city street?",
+    "4": "Are the adults on the city street?",
+    "5": "Are the adults standing in line?",
+    "6": "Is there a woman in the group?",
+    "7": "Is the woman wearing a yellow trench coat?",
+    "8": "Is the woman wearing headphones?",
+    "9": "Is the woman looking down at her phone?",
+    "10": "Is there a man in the group?",
+    "11": "Is the man wearing a blue suit?",
+    "12": "Does the man have a briefcase?",
+    "13": "Is the man looking straight ahead?",
+    "14": "Is there a young man in the group?",
+    "15": "Is the young man wearing a white T-shirt?",
+    "16": "Are the young man's hands in his pockets?",
+    "17": "Are the young man's eyes closed?",
+    "18": "Is the young man's head lowered?",
+    "19": "Is there another woman in the group?",
+    "20": "Is the second woman wearing a red dress?",
+    "21": "Does the second woman have a coffee cup?",
+    "22": "Is the second woman smiling toward the viewer?",
+    "23": "Is there another man in the group?",
+    "24": "Is the second man wearing gray sportswear?",
+    "25": "Are the second man's arms crossed?",
+    "26": "Is the second man facing away from the viewer?"
+  }
+}

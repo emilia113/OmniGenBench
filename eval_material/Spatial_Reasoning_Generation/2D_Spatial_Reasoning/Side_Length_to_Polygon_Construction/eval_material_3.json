@@ -1,0 +1,3 @@
+[
+  "Here is a bullet list of required visual elements:\n\n*   A four-sided polygon (a quadrilateral).\n*   The first side of the polygon, having a relative length of 4.\n*   The second side of the polygon, positioned clockwise relative to the first side, having a relative length of 5.\n*   The third side of the polygon, positioned clockwise relative to the second side, having a relative length of 4.\n*   The fourth side of the polygon, positioned clockwise relative to the third side, having a relative length of 5, and connecting to the first side to form a closed shape."
+]

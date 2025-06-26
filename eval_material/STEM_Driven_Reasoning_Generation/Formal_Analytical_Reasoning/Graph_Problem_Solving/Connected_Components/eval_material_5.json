@@ -1,0 +1,3 @@
+[
+  "Here is a bullet list of required visual elements:\n\n*   Labeled node A with a first distinct visual style.\n*   Labeled node B with the first distinct visual style.\n*   Labeled node C with the first distinct visual style.\n*   Edge connecting node A and node B, with the first distinct visual style.\n*   Edge connecting node B and node C, with the first distinct visual style.\n*   Labeled node D with a second distinct visual style, different from the first visual style.\n*   Labeled node E with the second distinct visual style.\n*   Edge connecting node D and node E, with the second distinct visual style.\n*   Labeled node F with a third distinct visual style, different from both the first and second visual styles."
+]

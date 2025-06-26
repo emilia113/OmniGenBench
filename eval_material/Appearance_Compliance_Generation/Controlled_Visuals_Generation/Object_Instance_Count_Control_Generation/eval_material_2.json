@@ -1,0 +1,71 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "other - count",
+    "4": "entity - whole",
+    "5": "other - count",
+    "6": "entity - whole",
+    "7": "other - count",
+    "8": "entity - whole",
+    "9": "other - count",
+    "10": "relation - spatial",
+    "11": "relation - spatial",
+    "12": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      0
+    ],
+    "5": [
+      4
+    ],
+    "6": [
+      0
+    ],
+    "7": [
+      6
+    ],
+    "8": [
+      0
+    ],
+    "9": [
+      8
+    ],
+    "10": [
+      2,
+      4
+    ],
+    "11": [
+      2,
+      6
+    ],
+    "12": [
+      2,
+      8
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a library interior?",
+    "2": "Are there bookshelves?",
+    "3": "Are there four bookshelves?",
+    "4": "Are there novels?",
+    "5": "Are there nine novels?",
+    "6": "Are there history books?",
+    "7": "Are there five history books?",
+    "8": "Are there textbooks?",
+    "9": "Are there three textbooks?",
+    "10": "Are the novels on the bookshelves?",
+    "11": "Are the history books on the bookshelves?",
+    "12": "Are the textbooks on the bookshelves?"
+  }
+}

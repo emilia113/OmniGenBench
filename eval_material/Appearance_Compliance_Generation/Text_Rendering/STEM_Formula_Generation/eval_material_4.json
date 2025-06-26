@@ -1,0 +1,6 @@
+{
+  "gt_text": "\\int_a^b f(x) \\, dx = F(b) - F(a)",
+  "ocr_type": "formula",
+  "lang": "en",
+  "juding_criteria": "Output from Part 2:\n\n*   Newton-Leibniz Formula (e.g., ∫<sub>a</sub><sup>b</sup> f(x) dx = F(b) - F(a) or ∫<sub>a</sub><sup>b</sup> F'(x) dx = F(b) - F(a))\n*   White background"
+}

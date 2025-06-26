@@ -1,0 +1,6 @@
+{
+  "gt_text": "'Tu n’es pas en retard'. 'Tu es simplement en chemin'. 'Respire. Souris. Avance.' 'Presque arrivé.'",
+  "ocr_type": "normal",
+  "lang": "fr",
+  "juding_criteria": "Here is a list of every concrete visual element the final image must contain:\n\n*   Bedroom mirror\n*   Multiple sticky notes on mirror surface\n*   Scattered arrangement of sticky notes on mirror\n*   Top left sticky note on mirror displaying \"Tu n’es pas en retard\"\n*   Middle sticky note on mirror displaying \"Tu es simplement en chemin\"\n*   Bottom right sticky note on mirror displaying \"Respire. Souris. Avance.\"\n*   Floor\n*   Single crumpled sticky note on floor\n*   Text \"Presque arrivé.\" on the crumpled sticky note on floor"
+}

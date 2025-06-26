@@ -1,0 +1,3 @@
+[
+  "Here is a bullet list of required elements:\n\n*   x-axis with \"x\" label and arrowhead\n*   y-axis with \"y\" label and arrowhead\n*   Origin \"O\" label\n*   \"-π/2\" x-axis label\n*   \"π/2\" x-axis label\n*   \"1\" y-axis label\n*   Curve segment from x = -π/2 to the first local maximum, visually marked as increasing.\n*   Curve segment from the first local maximum to the local minimum, visually marked as decreasing.\n*   Curve segment from the local minimum to x = π/2, visually marked as increasing."
+]

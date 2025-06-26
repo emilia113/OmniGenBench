@@ -1,0 +1,102 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "other - count",
+    "5": "entity - whole",
+    "6": "other - count",
+    "7": "entity - whole",
+    "8": "entity - whole",
+    "9": "other - count",
+    "10": "entity - whole",
+    "11": "entity - whole",
+    "12": "other - count",
+    "13": "relation - spatial",
+    "14": "relation - spatial",
+    "15": "relation - spatial",
+    "16": "attribute - state",
+    "17": "relation - spatial",
+    "18": "attribute - state"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      3
+    ],
+    "5": [
+      0
+    ],
+    "6": [
+      5
+    ],
+    "7": [
+      0
+    ],
+    "8": [
+      0
+    ],
+    "9": [
+      8
+    ],
+    "10": [
+      0
+    ],
+    "11": [
+      0
+    ],
+    "12": [
+      11
+    ],
+    "13": [
+      2,
+      3
+    ],
+    "14": [
+      2,
+      5
+    ],
+    "15": [
+      7,
+      8
+    ],
+    "16": [
+      8
+    ],
+    "17": [
+      10,
+      11
+    ],
+    "18": [
+      11
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a farm?",
+    "2": "Is there a chicken coop?",
+    "3": "Are there chickens?",
+    "4": "Are there eight chickens?",
+    "5": "Are there dogs?",
+    "6": "Are there four dogs?",
+    "7": "Is there grass?",
+    "8": "Are there sheep?",
+    "9": "Are there three sheep?",
+    "10": "Is there a field?",
+    "11": "Are there farmers?",
+    "12": "Are there two farmers?",
+    "13": "Are the chickens inside the chicken coop?",
+    "14": "Are the dogs outside the chicken coop?",
+    "15": "Are the sheep on the grass?",
+    "16": "Are the sheep grazing?",
+    "17": "Are the farmers in the field?",
+    "18": "Are the farmers working?"
+  }
+}

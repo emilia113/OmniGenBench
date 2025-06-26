@@ -1,0 +1,241 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "attribute - shape",
+    "3": "entity - whole",
+    "4": "attribute - structure",
+    "5": "other - count",
+    "6": "attribute - color",
+    "7": "relation - spatial",
+    "8": "entity - whole",
+    "9": "attribute - color",
+    "10": "attribute - state",
+    "11": "entity - whole",
+    "12": "attribute - color",
+    "13": "attribute - structure",
+    "14": "entity - whole",
+    "15": "attribute - color",
+    "16": "entity - part",
+    "17": "relation - spatial",
+    "18": "entity - whole",
+    "19": "attribute - color",
+    "20": "attribute - shape",
+    "21": "entity - whole",
+    "22": "entity - part",
+    "23": "entity - whole",
+    "24": "attribute - color",
+    "25": "attribute - texture",
+    "26": "entity - whole",
+    "27": "attribute - color",
+    "28": "entity - part",
+    "29": "other - count",
+    "30": "entity - whole",
+    "31": "attribute - color",
+    "32": "action -",
+    "33": "entity - whole",
+    "34": "attribute - material",
+    "35": "entity - whole",
+    "36": "entity - part",
+    "37": "entity - part",
+    "38": "attribute - state",
+    "39": "entity - whole",
+    "40": "attribute - color",
+    "41": "entity - part",
+    "42": "entity - whole",
+    "43": "entity - part",
+    "44": "attribute - color",
+    "45": "entity - whole",
+    "46": "attribute - color",
+    "47": "attribute - state"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      3
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      1
+    ],
+    "7": [
+      1,
+      3
+    ],
+    "8": [
+      0
+    ],
+    "9": [
+      8
+    ],
+    "10": [
+      8
+    ],
+    "11": [
+      0
+    ],
+    "12": [
+      11
+    ],
+    "13": [
+      11
+    ],
+    "14": [
+      0
+    ],
+    "15": [
+      14
+    ],
+    "16": [
+      14
+    ],
+    "17": [
+      14,
+      16
+    ],
+    "18": [
+      0
+    ],
+    "19": [
+      18
+    ],
+    "20": [
+      18
+    ],
+    "21": [
+      0
+    ],
+    "22": [
+      21
+    ],
+    "23": [
+      0
+    ],
+    "24": [
+      23
+    ],
+    "25": [
+      23
+    ],
+    "26": [
+      0
+    ],
+    "27": [
+      26
+    ],
+    "28": [
+      26
+    ],
+    "29": [
+      28
+    ],
+    "30": [
+      0
+    ],
+    "31": [
+      30
+    ],
+    "32": [
+      30
+    ],
+    "33": [
+      0
+    ],
+    "34": [
+      33
+    ],
+    "35": [
+      0
+    ],
+    "36": [
+      35
+    ],
+    "37": [
+      35
+    ],
+    "38": [
+      36
+    ],
+    "39": [
+      0
+    ],
+    "40": [
+      39
+    ],
+    "41": [
+      39
+    ],
+    "42": [
+      0
+    ],
+    "43": [
+      42
+    ],
+    "44": [
+      43
+    ],
+    "45": [
+      0
+    ],
+    "46": [
+      45
+    ]
+  },
+  "qid2question": {
+    "1": "Is there an image?",
+    "2": "Is the image square?",
+    "3": "Is there a grid?",
+    "4": "Is the grid structured in 4 rows by 4 columns?",
+    "5": "Are there 16 distinct objects?",
+    "6": "Is the background white?",
+    "7": "Does the grid contain the image?",
+    "8": "Is there a crescent moon?",
+    "9": "Is the crescent moon yellow?",
+    "10": "Does the crescent moon have a smiling face?",
+    "11": "Is there a gear?",
+    "12": "Is the gear silver?",
+    "13": "Does the gear have six teeth?",
+    "14": "Is there a heart?",
+    "15": "Is the heart teal?",
+    "16": "Is there a band-aid on the heart?",
+    "17": "Is the band-aid across the heart?",
+    "18": "Is there a balloon?",
+    "19": "Is the balloon red?",
+    "20": "Is the balloon shaped like the number “7”?",
+    "21": "Is there a slice of watermelon?",
+    "22": "Does the watermelon slice have sunglasses?",
+    "23": "Is there a question mark?",
+    "24": "Is the question mark neon green?",
+    "25": "Is the question mark covered in glitter?",
+    "26": "Is there a crown?",
+    "27": "Is the crown golden?",
+    "28": "Does the crown have jewels?",
+    "29": "Are there three jewels on the crown?",
+    "30": "Is there a ghost?",
+    "31": "Is the ghost purple?",
+    "32": "Is the ghost waving with one hand?",
+    "33": "Is there a chess rook?",
+    "34": "Is the chess rook made of transparent ice?",
+    "35": "Is there a coffee cup?",
+    "36": "Does the coffee cup have cream?",
+    "37": "Does the coffee cup have steam?",
+    "38": "Is the cream in a swirl?",
+    "39": "Is there a dinosaur?",
+    "40": "Is the dinosaur green?",
+    "41": "Does the dinosaur have headphones?",
+    "42": "Is there a pencil?",
+    "43": "Does the pencil have an eraser?",
+    "44": "Is the eraser rainbow-colored?",
+    "45": "Is there a flamingo?",
+    "46": "Is the flamingo pink?"
+  }
+}

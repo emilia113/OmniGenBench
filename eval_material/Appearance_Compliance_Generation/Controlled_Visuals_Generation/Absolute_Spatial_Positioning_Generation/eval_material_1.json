@@ -1,0 +1,34 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "relation - spatial",
+    "4": "relation - spatial",
+    "5": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      2
+    ],
+    "5": [
+      1,
+      2
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a hot air balloon?",
+    "2": "Is there a mountain range?",
+    "3": "Is the hot air balloon in the top-left corner?",
+    "4": "Is the mountain range in the bottom-right corner?",
+    "5": "Are the hot air balloon and the mountain range separated?"
+  }
+}

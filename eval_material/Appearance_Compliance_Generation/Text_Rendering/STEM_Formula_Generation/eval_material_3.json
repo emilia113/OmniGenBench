@@ -1,0 +1,6 @@
+{
+  "gt_text": "\\nabla \\cdot \\mathbf{E} = \\frac{\\rho}{\\varepsilon_0}, \\nabla \\cdot \\mathbf{B} = 0, \\nabla \\times \\mathbf{E} = -\\frac{\\partial \\mathbf{B}}{\\partial t}, \\nabla \\times \\mathbf{B} = \\mu_0 \\mathbf{J} + \\mu_0 \\varepsilon_0 \\frac{\\partial \\mathbf{E}}{\\partial t}",
+  "ocr_type": "formula",
+  "lang": "en",
+  "juding_criteria": "Based on the Key Requirement and the specific prompt:\n\n*   **Key Requirement:** The image must clearly display the specified mathematical formula typeset in a mathematical style on a white background.\n*   **Prompt:** Generate an image of the formula for Maxwell's Equations in Electromagnetic Theory, clearly typeset in a mathematical style on a white background.\n\nThe distinct visual elements that the final image must contain are:\n\n*   Mathematically typeset Maxwell's Equations (representing the formula for Maxwell's Equations in Electromagnetic Theory).\n*   White background."
+}

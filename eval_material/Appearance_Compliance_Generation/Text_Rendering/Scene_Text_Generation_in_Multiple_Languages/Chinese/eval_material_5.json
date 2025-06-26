@@ -1,0 +1,6 @@
+{
+  "gt_text": "欢迎来到一个你绝不会想离开的地方，直到你真的必须离开为止 退房时间：上午11点整。咖啡供应至10:45",
+  "ocr_type": "normal",
+  "lang": "ch",
+  "juding_criteria": "Here is a bullet list of required visual elements:\n\n*   A hotel front desk\n*   A letterboard positioned above the hotel front desk\n*   The Chinese text \"欢迎来到一个你绝不会想离开的地方，直到你真的必须离开为止\" displayed on the letterboard\n*   Neat plastic lettering style for the text on the letterboard\n*   A small printed sign positioned below the letterboard\n*   The Chinese text \"退房时间：上午11点整。咖啡供应至10:45\" displayed on the small printed sign"
+}

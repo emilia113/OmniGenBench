@@ -1,0 +1,6 @@
+{
+  "gt_text": "e^{i\\theta} = \\cos\\theta + i\\sin\\theta",
+  "ocr_type": "formula",
+  "lang": "en",
+  "juding_criteria": "Here is a bullet list of required concrete visual elements for the image:\n\n*   The mathematical symbol 'e' (Euler's number).\n*   The mathematical symbol 'i' (imaginary unit), typeset as part of a superscript to 'e'.\n*   A variable (e.g., 'x' or 'θ'), typeset as part of a superscript to 'e', forming an expression like 'ix' or 'iθ' with the symbol 'i'.\n*   An equals sign '='.\n*   The function name 'cos' (cosine).\n*   An opening parenthesis immediately following 'cos'.\n*   The same variable (as used in the superscript) as the argument within the parentheses for 'cos'.\n*   A closing parenthesis immediately following the variable for the 'cos' argument.\n*   A plus sign '+'.\n*   The mathematical symbol 'i' (imaginary unit), appearing as a coefficient before the 'sin' function.\n*   The function name 'sin' (sine).\n*   An opening parenthesis immediately following 'sin'.\n*   The same variable (as used in the superscript and 'cos' argument) as the argument within the parentheses for 'sin'.\n*   A closing parenthesis immediately following the variable for the 'sin' argument.\n*   A white background for the entire image."
+}

@@ -1,0 +1,3 @@
+[
+  "Here is a bullet list of required concrete visual elements:\n\n*   **Four distinct node symbols.**\n*   **Four unique textual labels, one for each node symbol, using names different from 'A', 'B', 'C', 'D'.**\n*   **Four visual representations of directed edges (e.g., lines or curves with arrowheads).**\n*   **A closed-loop connection pattern formed by the four nodes and four directed edges, creating a single 4-cycle structure (e.g., if new labels are W, X, Y, Z, then connections like W→X, X→Y, Y→Z, Z→W).**\n*   **A spatial arrangement of the node symbols and edge representations that is visibly different from the layout in the provided original image.**"
+]

@@ -1,0 +1,128 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "other - count",
+    "4": "entity - whole",
+    "5": "entity - whole",
+    "6": "entity - whole",
+    "7": "entity - whole",
+    "8": "entity - whole",
+    "9": "entity - whole",
+    "10": "attribute - color",
+    "11": "attribute - color",
+    "12": "attribute - color",
+    "13": "attribute - color",
+    "14": "attribute - color",
+    "15": "attribute - color",
+    "16": "attribute - type",
+    "17": "relation - spatial",
+    "18": "attribute - state",
+    "19": "entity - part",
+    "20": "entity - part",
+    "21": "attribute - type",
+    "22": "attribute - state",
+    "23": "entity - part",
+    "24": "entity - part"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      2
+    ],
+    "4": [
+      2
+    ],
+    "5": [
+      2
+    ],
+    "6": [
+      2
+    ],
+    "7": [
+      2
+    ],
+    "8": [
+      2
+    ],
+    "9": [
+      2
+    ],
+    "10": [
+      4
+    ],
+    "11": [
+      5
+    ],
+    "12": [
+      6
+    ],
+    "13": [
+      7
+    ],
+    "14": [
+      8
+    ],
+    "15": [
+      9
+    ],
+    "16": [
+      4
+    ],
+    "17": [
+      5
+    ],
+    "18": [
+      6
+    ],
+    "19": [
+      7
+    ],
+    "20": [
+      19
+    ],
+    "21": [
+      8
+    ],
+    "22": [
+      8
+    ],
+    "23": [
+      9
+    ],
+    "24": [
+      23
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a parking lot?",
+    "2": "Are there cars?",
+    "3": "Are there six cars?",
+    "4": "Is there an SUV?",
+    "5": "Is there a sedan?",
+    "6": "Is there a convertible?",
+    "7": "Is there a pickup truck?",
+    "8": "Is there an electric car?",
+    "9": "Is there an off-road vehicle?",
+    "10": "Is the SUV red?",
+    "11": "Is the sedan white?",
+    "12": "Is the convertible blue?",
+    "13": "Is the pickup truck black?",
+    "14": "Is the electric car silver?",
+    "15": "Is the off-road vehicle dark green?",
+    "16": "Does the SUV have a license plate starting with \"AB1\"?",
+    "17": "Is there a person inside the sedan?",
+    "18": "Is the convertible's left door slightly open?",
+    "19": "Does the pickup truck have a back?",
+    "20": "Are there wooden crates in the back of the pickup truck?",
+    "21": "Does the electric car have a license plate starting with \"E8\"?",
+    "22": "Is the electric car plugged in for charging?",
+    "23": "Does the off-road vehicle have a windshield?",
+    "24": "Is there a camping permit on the windshield of the off-road vehicle?"
+  }
+}

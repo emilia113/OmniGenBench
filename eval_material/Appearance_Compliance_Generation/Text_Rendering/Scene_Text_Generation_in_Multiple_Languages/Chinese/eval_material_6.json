@@ -1,0 +1,6 @@
+{
+  "gt_text": "推开那扇门 深吸一口气 离开你的世界 进入别人的世界",
+  "ocr_type": "normal",
+  "lang": "ch",
+  "juding_criteria": "Output from Part 2:\n\n*   Four concrete steps\n*   An old library entrance (or building context for the steps)\n*   Graffiti text '推开那扇门' on the first (lowest) step\n*   Graffiti text '深吸一口气' on the second step\n*   Graffiti text '离开你的世界' on the third step\n*   Graffiti text '进入别人的世界' on the fourth (topmost) step\n*   A worn hardcover book\n*   Book resting on the top step\n*   Faded, illegible title on the book"
+}

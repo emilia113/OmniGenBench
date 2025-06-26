@@ -1,0 +1,3 @@
+[
+  "Based on the Key Requirement and the specific prompt:\n\n**Key Requirement:** The image must depict a polygon with side lengths matching the specified sequence in the prompt, listed in clockwise order.\n**Specific Prompt:** Generate an image of a polygon with side lengths of 6, 8, and 10, listed in clockwise order.\n\nThe distinct visual elements that the final image must contain are:\n\n*   A polygon.\n*   First side in clockwise sequence with relative length 6.\n*   Second side in clockwise sequence with relative length 8.\n*   Third side in clockwise sequence with relative length 10."
+]

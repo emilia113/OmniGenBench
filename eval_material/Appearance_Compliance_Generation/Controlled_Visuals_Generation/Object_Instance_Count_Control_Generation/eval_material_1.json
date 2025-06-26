@@ -1,0 +1,80 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "other - count",
+    "5": "entity - whole",
+    "6": "other - count",
+    "7": "entity - whole",
+    "8": "other - count",
+    "9": "entity - whole",
+    "10": "other - count",
+    "11": "action -",
+    "12": "relation - spatial",
+    "13": "relation - spatial",
+    "14": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      3
+    ],
+    "5": [
+      0
+    ],
+    "6": [
+      5
+    ],
+    "7": [
+      0
+    ],
+    "8": [
+      7
+    ],
+    "9": [
+      0
+    ],
+    "10": [
+      9
+    ],
+    "11": [
+      9
+    ],
+    "12": [
+      2,
+      3
+    ],
+    "13": [
+      3,
+      5
+    ],
+    "14": [
+      7
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a market scene?",
+    "2": "Is there a fruit stall?",
+    "3": "Are there watermelons?",
+    "4": "Are there six watermelons?",
+    "5": "Are there apples?",
+    "6": "Are there twelve apples?",
+    "7": "Are there oranges?",
+    "8": "Are there three oranges?",
+    "9": "Are there customers?",
+    "10": "Are there two customers?",
+    "11": "Are the customers picking fruit?",
+    "12": "Are the watermelons on the fruit stall?",
+    "13": "Are the apples next to the watermelons?",
+    "14": "Are the oranges on the ground?"
+  }
+}

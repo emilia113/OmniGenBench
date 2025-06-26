@@ -1,0 +1,6 @@
+{
+  "gt_text": "open the door.  take a breath.  leave your world.  enter someone else’s.",
+  "ocr_type": "normal",
+  "lang": "en",
+  "juding_criteria": "Output from Part 2:\n\n*   Four concrete steps\n*   Old library entrance\n*   Legible graffiti text \"open the door\" on the first concrete step\n*   Legible graffiti text \"take a breath\" on the second concrete step\n*   Legible graffiti text \"leave your world\" on the third concrete step\n*   Legible graffiti text \"enter someone else’s\" on the fourth concrete step\n*   Worn hardcover book\n*   Book resting on the top concrete step\n*   Faded, illegible title on the book"
+}

@@ -1,0 +1,6 @@
+{
+  "gt_text": "あなたは遅れていない 今、向かっているところ 深呼吸して、笑って、前へ進もう もうすぐ着くよ",
+  "ocr_type": "normal",
+  "lang": "japan",
+  "juding_criteria": "Here is a bullet list of required visual elements:\n\n*   A bedroom mirror.\n*   Multiple scattered sticky notes covering the mirror's surface (these general notes should be readable if they contain any text).\n*   A top-left sticky note on the mirror displaying the legible Chinese text '你没有迟到'.\n*   A middle sticky note on the mirror displaying the legible Chinese text '你正在路上'.\n*   A bottom-right sticky note on the mirror displaying the legible Chinese text '深呼吸，微笑，继续前行'.\n*   A single crumpled sticky note on the floor displaying the legible Chinese text '快到了'.\n*   A floor surface."
+}

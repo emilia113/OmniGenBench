@@ -1,0 +1,6 @@
+{
+  "gt_text": "'À celui qui prend toujours mon lait d’avoine — je te pardonne, mais sache que le karma verse aussi' 'acheter plus de lait d’avoine mieux le cacher'",
+  "ocr_type": "normal",
+  "lang": "fr",
+  "juding_criteria": "Output from Part 2:\n\n*   A whiteboard\n*   A college dorm kitchen setting\n*   The French text message \"À celui qui prend toujours mon lait d’avoine — je te pardonne, mais sache que le karma verse aussi\" written on the whiteboard\n*   The French text message \"☑ acheter plus de lait d’avoine ☑ mieux le cacher\" written in a corner of the whiteboard (including the visual checkboxes)"
+}

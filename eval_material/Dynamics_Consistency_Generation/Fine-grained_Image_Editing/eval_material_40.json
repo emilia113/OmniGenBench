@@ -1,0 +1,3 @@
+{
+  "juding_criteria": "Based on the Key Requirement (\"The image must be the result of accurately modifying the conditional image according to the instruction\") and the specific prompt (\"Remove the flowers from the table and place a plate of peanuts\"), the following visual elements must be present in the final image:\n\n*   Wooden dining table\n*   Wooden chairs\n*   Place settings (plates, cutlery, glasses, small bowls) on the table\n*   Background window\n*   Brown curtains\n*   Dark wood background cabinetry/wall\n*   Tiled floor\n*   A plate of peanuts on the table"
+}

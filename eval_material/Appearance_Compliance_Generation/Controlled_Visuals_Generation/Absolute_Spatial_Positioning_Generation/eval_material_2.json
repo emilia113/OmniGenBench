@@ -1,0 +1,38 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "entity - whole",
+    "3": "entity - whole",
+    "4": "relation - spatial",
+    "5": "relation - spatial",
+    "6": "relation - spatial"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      0
+    ],
+    "3": [
+      0
+    ],
+    "4": [
+      1
+    ],
+    "5": [
+      2
+    ],
+    "6": [
+      3
+    ]
+  },
+  "qid2question": {
+    "1": "Is there a lighthouse?",
+    "2": "Are there waves?",
+    "3": "Is there a boat?",
+    "4": "Is the lighthouse in the top-right corner?",
+    "5": "Are the waves in the bottom half?",
+    "6": "Is the boat near the center of the image?"
+  }
+}

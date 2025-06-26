@@ -1,0 +1,3 @@
+[
+  "Here is a bullet list of required elements:\n\n*   `The given rectangle outline.`\n*   `A first diagonal line segment of the rectangle.`\n*   `A second diagonal line segment of the rectangle.`\n*   `The intersection point of the two diagonal lines.`\n*   `A circle centered at the intersection point and tangent to the two shorter sides of the rectangle.`"
+]

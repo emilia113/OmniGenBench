@@ -1,0 +1,63 @@
+{
+  "qid2tuple": {
+    "1": "entity - whole",
+    "2": "other - count",
+    "3": "entity - part",
+    "4": "other - count",
+    "5": "entity - part",
+    "6": "other - count",
+    "7": "entity - part",
+    "8": "other - count",
+    "9": "action -",
+    "10": "action -",
+    "11": "action -"
+  },
+  "qid2dependency": {
+    "1": [
+      0
+    ],
+    "2": [
+      1
+    ],
+    "3": [
+      1
+    ],
+    "4": [
+      3
+    ],
+    "5": [
+      1
+    ],
+    "6": [
+      5
+    ],
+    "7": [
+      1
+    ],
+    "8": [
+      7
+    ],
+    "9": [
+      3
+    ],
+    "10": [
+      5
+    ],
+    "11": [
+      7
+    ]
+  },
+  "qid2question": {
+    "1": "Are there children?",
+    "2": "Are there six children?",
+    "3": "Are there children jumping rope?",
+    "4": "Are there two children jumping rope?",
+    "5": "Are there children playing soccer?",
+    "6": "Are there three children playing soccer?",
+    "7": "Is there a child playing in the sand?",
+    "8": "Is there one child playing in the sand?",
+    "9": "Are the children jumping rope?",
+    "10": "Are the children playing soccer?",
+    "11": "Is the child playing in the sand?"
+  }
+}

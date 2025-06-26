@@ -1,0 +1,6 @@
+{
+  "gt_text": "一度来たら決して離れたくなくなる場所へようこそ──本当に去らなければならない時までは。チェックアウト時間：午前11時ちょうど。コーヒーの提供は10時45分まで。",
+  "ocr_type": "normal",
+  "lang": "japan",
+  "juding_criteria": "Here is a list of every concrete visual element the final image must contain:\n\n*   Hotel front desk\n*   Letterboard positioned above the hotel front desk\n*   Neat plastic lettering (as the style for the text on the letterboard)\n*   The specific Chinese text '欢迎来到一个你绝不会想离开的地方，直到你真的必须离开为止' (displayed on the letterboard)\n*   Small printed sign positioned below the letterboard\n*   The specific Chinese text '退房时间：上午11点整。咖啡供应至10:45' (displayed on the small printed sign)"
+}

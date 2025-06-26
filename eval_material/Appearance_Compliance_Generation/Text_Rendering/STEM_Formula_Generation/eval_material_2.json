@@ -1,0 +1,6 @@
+{
+  "gt_text": "i\\hbar \\frac{\\partial}{\\partial t}\\Psi(\\mathbf{r}, t) = \\left[ -\\frac{\\hbar^2}{2m}\\nabla^2 + V(\\mathbf{r}, t) \\right] \\Psi(\\mathbf{r}, t)",
+  "ocr_type": "formula",
+  "lang": "en",
+  "juding_criteria": "Based on the Key Requirement and the specific prompt:\n\n*   **Key Requirement:** The image must clearly display the specified mathematical formula typeset in a mathematical style on a white background.\n*   **Specific Prompt:** Generate an image of the formula for Schrödinger Equation in Quantum Mechanics, clearly typeset in a mathematical style on a white background.\n\nThe distinct concrete visual elements that the final image must contain are:\n\n*   Schrödinger Equation formula\n*   White background"
+}
