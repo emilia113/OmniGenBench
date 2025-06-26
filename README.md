@@ -72,11 +72,54 @@ If you’d like to see how your model performs across a variety of challenging a
 
 
 ## 🛠️ Quick Start
+### 1. Download the Benchmark Data
 
-Evaluation data and toolkit will be available shortly.
+You can download the OmniGenBench benchmark dataset from Hugging Face:
+[https://huggingface.co/datasets/emiliiia/OmniGenBench](https://huggingface.co/datasets/emiliiia/OmniGenBench)
 
-<br>
-<br>
+### 2. Environment Setup
+
+Install Python 3.10 and clone the benchmark repository:
+
+```bash
+git clone https://github.com/emilia113/OmniGenBench.git
+cd OmniGenBench
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Image Generation
+
+1. Replace the `GenerationModel` class in `generated_image.py` with your own image generation model.
+
+2. Run the script to generate images:
+
+```bash
+python generate_image.py \
+    --prompt_root /path/to/benchmark/text \
+    --image_root /path/to/benchmark/image \
+    --log_save_dir ./log \
+    --result_save_dir ./generated_images
+```
+
+### 4. Evaluation
+
+1. Save your Google Gemini API key to a text file (e.g., `my_genai_key.txt`).
+
+2. Run the evaluation script:
+
+```bash
+python cal_metrics.py \
+    --genai_key_file /path/to/my_genai_key.txt \                            # Your Gemini API key file
+    --benchmark_root /path/to/OmniGenBench/benchmark \                      # Path to benchmark data
+    --generated_image_root /path/to/generated_images/GenerationModel \      # Path to generated images
+    --eval_material_root /path/to/OmniGenBench/eval_material \              # Evaluation materials
+    --only_instruction_following                                            # Only evaluate instruction-following consistency
+```
 
 ## 🎨 Model Outputs Showcase
 <div align="center">
