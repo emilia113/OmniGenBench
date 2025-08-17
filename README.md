@@ -22,6 +22,7 @@
 <!-- Uncomment below to show paper and huggingface badge -->
 [![OmniGenBench](https://img.shields.io/badge/Paper-OmniGenBench-d32f2f.svg?logo=arXiv)](https://arxiv.org/abs/2505.18775)&#160;
 [![OmniGenBench](https://img.shields.io/badge/%F0%9F%A4%97%20HF%20-OmniGenBench-blue)](https://huggingface.co/datasets/emiliiia/OmniGenBench)
+[![OmniGenBench](https://img.shields.io/badge/%20Leaderboard%20-OmniGenBench-blue)](https://emilia113.github.io/OmniGenBench.github.io)
 
 
 </div>
@@ -38,7 +39,7 @@
 
 ## 📝 TODO
 
-- [ ] Release leaderboard
+- [x] Release leaderboard
 - [x] Release evaluation code
 - [x] Release benchmark data
 
